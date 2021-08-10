@@ -1,1 +1,1 @@
-![](https://komarev.com/ghpvc/?densxd&color=dc143c)
+![](https://komarev.com/ghpvc/?username=densxd&color=dc143c)
